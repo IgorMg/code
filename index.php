@@ -2,4 +2,5 @@
 
 phpinfo();
 asd
+print_r();
 ?>
